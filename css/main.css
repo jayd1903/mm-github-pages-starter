@@ -80,15 +80,15 @@ small {
   width: 100%;
   padding-bottom: 10vh;
   display: flex;
-  background: #dbf9ff url("../images/hero.jpg") no-repeat center;
+  background: url("../images/bio-photo.jpg") no-repeat center;
   overflow: hidden;
   border-radius: 25px;
   height: 30vh;
 }
 #hero-image h2 {
   margin: 40px 0 40px 0;
-  padding-left: 2vw;
-  padding-right: 2vw;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .button-1 {
   display: block;
