@@ -49,7 +49,7 @@ title: "About"
           <li class="feature-1">
             <h4>Jay Dharmadikari</h4>
             <p>
-              A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate team. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities - you can contact him here. <a href="https://www.linkedin.com/in/jay-dharmadhikari-751745190">LinkedIn</a>
+              A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate club. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities - you can contact him here. <a href="https://www.linkedin.com/in/jay-dharmadhikari-751745190">LinkedIn</a>
             </p>
           </li>
           <div id="spaceblock"></div>
