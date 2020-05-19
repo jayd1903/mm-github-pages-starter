@@ -12,8 +12,8 @@
           <img src="../assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg">
           </img>
         <h2>
-          Five-Week Courses. <br />
-          Lifelong Skills.
+          Five-Week Courses, <br />
+          Lifelong Skills!
         </h2>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
       </div>
