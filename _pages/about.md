@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 ---
  <head>
     <meta charset="UTF-8" />
@@ -42,14 +41,4 @@ title: "About"
       </div>
     </div>
     <!--content ends-->
-    <div class="spacer" />
-    <footer>
-      <div class="wrapper">
-        <div id="footer-info">
-          <p>Copyright 2020 NextLevel Redmond. All rights reserved.</p>
-        </div>
-        </div>
-        <div class="clear"></div>
-      </div>
-    </footer>
   </body>
