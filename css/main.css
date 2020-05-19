@@ -26,13 +26,15 @@ body {
     animation-direction: alternate;
 }
 p {
+    margin-bottom: 20px;
 }
 h1 {
 
 }
 h2 {
  
-
+  font-size: 5vw;
+  text-transform: uppercase;
   text-align: center;
   margin-bottom: 20px;
 }
