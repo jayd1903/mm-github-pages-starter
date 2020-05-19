@@ -8,27 +8,6 @@ permalink: /enroll/
     <link rel="stylesheet" href="https://jayd1903.github.io/mm-github-pages-starter/css/main.css" />
   </head>
   <body>
-    <div class="container">
-      <nav>
-        <input type="checkbox" id="nav" class="hidden" />
-        <label for="nav" class="nav-btn">
-          <i></i>
-          <i></i>
-          <i></i>
-        </label>
-        <div class="logo">
-          <a href="https://nextlevelredmond.com">NextLevel Education</a>
-        </div>
-        <div class="nav-wrapper">
-          <ul>
-            <li><a href="https://nextlevelredmond.com/about/">About</a></li>
-            <li><a href="https://nextlevelredmond.com/courses/">Courses</a></li>
-            <li><a href="https://nextlevelredmond.com/enroll/">Enroll</a></li>
-            <li><a href="https://nextlevelredmond.com/donate/">Donate</a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
     <!--navigation ends-->
     <!--main-->
     <div class="spacer" />
@@ -48,11 +27,5 @@ permalink: /enroll/
     <a href="https://gf.me/u/x27wbq" class="button-1">Donate To Our Fund</a>
   </div>
     <!--content ends-->
-    <div class="footer">
-        <div id="footer-info">
-          <p>Copyright 2020 NextLevel Redmond. All rights reserved.</p>
-        </div>
-        </div>
-        <div class="clear"></div>
-      </div>
+    
   </body>
