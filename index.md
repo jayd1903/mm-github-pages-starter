@@ -11,7 +11,7 @@
     <div id="hero-image">
       <div class="wrapper">
         <h2>
-          <strong>Five-Week Courses.</strong><br />
+          Five-Week Courses. br />
           Lifelong Skills.
         </h2>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
