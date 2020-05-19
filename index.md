@@ -22,7 +22,7 @@
       <div class="wrapper">
         <ul>
           <li class="feature-1">
-            <h4>Public Speaking and Professional Communication</h4>
+            <h4>Public Speaking</h4>
             <p>
               This FREE 4 week online class is for any middle-schooler teaching  public speaking and skills for professional communication. Students learn types of public speaking, how to prepare for presentations and interviews, and tips for effective speaking and delivery. 
             </p>
