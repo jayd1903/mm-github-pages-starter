@@ -5,7 +5,7 @@ permalink: /courses/
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>NextLevel Education</title>
+    
     <link rel="stylesheet" href="jayd1903.github.io/mm-github-pages-starter/css/main.css" />
   </head>
   <body>
@@ -15,7 +15,7 @@ permalink: /courses/
     <div id="hero-image">
       <div class="wrapper">
         <h2>
-          NextLevel Redmond is run by two Redmond High School students who are passionate about using their skills to help the community around them. The challenges set forth by COVID-19 created an opportunity to start unique online education and a  <a href="https://www.gofundme.com/f/nextlevel-redmond-covid19-recovery-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet">recovery fund </a>to help other educational institutions in the community. The NextLevel Redmond team is always open to new partnerships or connections, which you can contact here. <a href = "mailto:nextlevelredmond@gmail.com">Email us here.</a>
+          NextLevel Education of Redmond is run by two Redmond High School students who are passionate about using their skills to help the community around them. The challenges set forth by COVID-19 created an opportunity to start unique online education and a  <a href="https://www.gofundme.com/f/nextlevel-redmond-covid19-recovery-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet">recovery fund </a>to help other educational institutions in the community. The NextLevel Redmond team is always open to new partnerships or connections, which you can contact here. <a href = "mailto:nextlevelredmond@gmail.com">Email us here.</a>
         </h2>
       </div>
     </div>
