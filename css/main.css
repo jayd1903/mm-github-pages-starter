@@ -38,6 +38,10 @@ h2 {
   text-align: center;
   margin-bottom: 20px;
 }
+@media only screen and (min-width: 1100px) {
+  h2 {
+    font-size: 4vw;
+  }
 h3 {
 
   font-weight: bold;
