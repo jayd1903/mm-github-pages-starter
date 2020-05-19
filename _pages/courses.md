@@ -6,7 +6,7 @@ permalink: /courses/
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>NextLevel Education</title>
-    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="jayd1903.github.io/mm-github-pages-starter/css/main.css" />
   </head>
   <body>
     <!--navigation ends-->
