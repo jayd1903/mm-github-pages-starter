@@ -26,7 +26,6 @@ permalink: /enroll/
             <li><a href="https://nextlevelredmond.com/courses/">Courses</a></li>
             <li><a href="https://nextlevelredmond.com/enroll/">Enroll</a></li>
             <li><a href="https://nextlevelredmond.com/donate/">Donate</a></li>
-            
           </ul>
         </div>
       </nav>
@@ -43,23 +42,18 @@ permalink: /enroll/
           marginheight="0"
           marginwidth="0"
           class="doc"
-          
           >Loading…</iframe
         >
-
     </div>
     <div class="donation">
     <a href="https://gf.me/u/x27wbq" class="button-1">Donate To Our Fund</a>
   </div>
     <!--content ends-->
     <div class="footer">
-      
         <div id="footer-info">
           <p>Copyright 2020 NextLevel Redmond. All rights reserved.</p>
         </div>
-        
         </div>
         <div class="clear"></div>
-      
       </div>
   </body>
