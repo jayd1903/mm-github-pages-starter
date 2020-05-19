@@ -1,5 +1,5 @@
 ---
-permalink: /great/
+permalink: /courses/
 ---
  <head>
     <meta charset="UTF-8" />
