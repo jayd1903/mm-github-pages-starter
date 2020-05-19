@@ -1,68 +1,52 @@
-@keyframes bgcolor {
-    0% {
-        background-color: #fafafa
-    }
-
-    30% {
-        background-color: #dce4e6
-    }
-
-    60% {
-        background-color: #ebfcff
-    }
-
-    90% {
-        background-color: #dfebed
-    }
-
-    100% {
-        background-color: #edbded
-    }
-}
 body {
-   -webkit-animation: bgcolor 50s infinite;
-    animation: bgcolor 30s infinite;
-    -webkit-animation-direction: alternate;
-    animation-direction: alternate;
+  background-color: #fff;
+  color: #777;
+  font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  padding: 0 0 0 0;
 }
 p {
-    margin-bottom: 20px;
+  line-height: 20px;
+  margin-bottom: 20px;
 }
 h1 {
-
+  font-family: "Crete Round", serif;
+  font-weight: bold;
+  color: #444;
+  font-size: 6vw;
+  margin-bottom: 20px;
 }
 h2 {
- 
+  font-weight: 300;
+  color: #444;
   font-size: 5vw;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 20px;
 }
-@media only screen and (min-width: 1100px) {
-  h2 {
-    font-size: 4vw;
-  }
-}
 h3 {
-
+  font-size: 3vw;
+  color: #444;
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
-
+  margin-bottom: 20px;
 }
 h4 {
-
+  font-size: 2vw;
+  color: #444;
+  font-weight: bold;
   text-transform: uppercase;
-
+  margin-bottom: 20px;
 }
 h5 {
-
+  font-size: 1vw;
+  color: #444;
   font-weight: bold;
   text-transform: uppercase;
 }
 a {
-  text-decoration: underline;
-
+  text-decoration: none;
+  color: #444;
 }
 a:hover {
   color: #02b8dd;
@@ -78,29 +62,213 @@ small {
 .clear {
   clear: both;
 }
+.wrapper {
+  margin: 0 auto;
 
+  width: 100%;
+  overflow: hidden;
+}
+/* navbar */
+nav {
+  padding: 8px;
+}
 
+.logo {
+  float: left;
+  padding: 8px;
+
+  margin-left: 16px;
+  margin-top: 8px;
+}
+
+.logo a {
+  color: #000;
+
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0px;
+  text-decoration: none;
+}
+
+nav ul {
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  float: left;
+}
+
+nav ul li:not(:first-child) {
+  margin-left: 48px;
+}
+
+nav ul li:last-child {
+  margin-right: 24px;
+}
+
+nav ul li a {
+  display: inline-block;
+  outline: none;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 14px;
+  letter-spacing: 1.2px;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 864px) {
+  .logo {
+    padding: 0;
+  }
+
+  .nav-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: #fff;
+    opacity: 0;
+    transition: all 0.2s ease;
+  }
+
+  .nav-wrapper ul {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-30%);
+    transform: translateX(-10%);
+    width: 100%;
+  }
+
+  .nav-wrapper ul li {
+    display: block;
+    float: none;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 10px;
+  }
+
+  .nav-wrapper ul li:nth-child(1) a {
+    transition-delay: 0.2s;
+  }
+
+  .nav-wrapper ul li:nth-child(2) a {
+    transition-delay: 0.3s;
+  }
+
+  .nav-wrapper ul li:nth-child(3) a {
+    transition-delay: 0.4s;
+  }
+
+  .nav-wrapper ul li:nth-child(4) a {
+    transition-delay: 0.5s;
+  }
+
+  .nav-wrapper ul li:not(:first-child) {
+    margin-left: 0;
+  }
+
+  .nav-wrapper ul li a {
+    padding: 10px 24px;
+    opacity: 0;
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    transform: translateX(-20px);
+    transition: all 0.2s ease;
+  }
+
+  .nav-btn {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    display: block;
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+    z-index: 9999;
+    border-radius: 50%;
+  }
+
+  .nav-btn i {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: #000;
+    border-radius: 2px;
+    margin-left: 14px;
+  }
+
+  .nav-btn i:nth-child(1) {
+    margin-top: 16px;
+  }
+
+  .nav-btn i:nth-child(2) {
+    margin-top: 4px;
+    opacity: 1;
+  }
+
+  .nav-btn i:nth-child(3) {
+    margin-top: 4px;
+  }
+}
+
+#nav:checked + .nav-btn {
+  transform: rotate(45deg);
+}
+
+#nav:checked + .nav-btn i {
+  background: #000;
+  transition: transform 0.2s ease;
+}
+
+#nav:checked + .nav-btn i:nth-child(1) {
+  transform: translateY(6px) rotate(180deg);
+}
+
+#nav:checked + .nav-btn i:nth-child(2) {
+  opacity: 0;
+}
+
+#nav:checked + .nav-btn i:nth-child(3) {
+  transform: translateY(-6px) rotate(90deg);
+}
+
+#nav:checked ~ .nav-wrapper {
+  z-index: 9990;
+  opacity: 1;
+}
+
+#nav:checked ~ .nav-wrapper ul li a {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.hidden {
+  display: none;
+}
 /* actual content */
 #hero-image {
   width: 100%;
   padding-bottom: 10vh;
   display: flex;
-  background: url("../assets/images/bio-photo.jpg") no-repeat center;
+  background: #dbf9ff url("../images/hero.jpg") no-repeat center;
   overflow: hidden;
-  border-radius: 25px;
-  height: 30vh;
 }
 #hero-image h2 {
-  margin: 40px 0 40px 0;
-  padding-left: 20px;
-  padding-right: 20px;
+  margin: 180px 0 40px 0;
 }
 .button-1 {
   display: block;
   text-align: center;
-  background: #ffaa33;
+  background: #444;
   border-radius: 15px;
-  color: #777;
+  color: #fff;
   width: 180px;
   height: 50px;
   font-size: 20px;
@@ -120,12 +288,7 @@ small {
   justify-content: space-around;
   list-style: none;
 }
-.spacer {
-  padding-top: 10vh;
-}
-.masthead {
-background-color: #eee
-}
+
 #features ul li {
   width: 300px;
   padding-top: 1vh;
@@ -136,13 +299,13 @@ background-color: #eee
 #features ul li.feature-1 {
   background: rgb(255, 178, 165);
   padding-right: 5vw;
-  height: 60vh;
+  height: 45vh;
   border-radius: 25px;
 }
 #features ul li.feature-2 {
   background: rgb(255, 178, 165);
   padding-right: 5vw;
-  height: 60vh;
+  height: 45vh;
   border-radius: 25px;
 }
 @media screen and (max-width: 864px) {
@@ -160,14 +323,14 @@ background-color: #eee
   #features ul li.feature-1 {
     background: rgb(255, 178, 165);
 
-    height: 52vh;
+    height: 45vh;
     padding-top: 4vh;
   }
   #features ul li.feature-2 {
     background: rgb(255, 178, 165);
 
     padding-top: 4vh;
-    height: 50vh;
+    height: 40vh;
   }
   #spaceblock {
     padding-top: 10vh;
@@ -175,12 +338,20 @@ background-color: #eee
   h4 {
     font-size: 4vw;
   }
-  h2 {
-    font-size: 3vw;
-  }
-  #hero-image {
-    height: 30vh;
-  }
 }
 
+/* footer */
+footer {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background-color: #f8fafa;
+  width: 100%;
 
+  justify-content: space-around;
+}
+.footer-info {
+  padding-top: 10px;
+  justify-content: center;
+  align-items: center;
+}
