@@ -9,7 +9,7 @@
     <!--main-->
     <div id="hero-image">
       <div class="wrapper">
-        ![Drag Racing](../assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg)
+          <img src="../assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg" />
         <h2>
           Five-Week Courses, <br />
           Lifelong Skills!
