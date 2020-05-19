@@ -9,7 +9,7 @@
     <!--main-->
     <div id="hero-image">
       <div class="wrapper">
-          <img src="../assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg" />
+          <img src="https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg" />
         <h2>
           Five-Week Courses, <br />
           Lifelong Skills!
