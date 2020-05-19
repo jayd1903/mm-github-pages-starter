@@ -1,76 +1,61 @@
 @keyframes bgcolor {
     0% {
-        background-color: #dae4f5
+        background-color: #fafafa
     }
 
     30% {
-        background-color: #8593a8
+        background-color: #dce4e6
     }
 
     60% {
-        background-color: #d5e1f5
+        background-color: #ebfcff
     }
 
     90% {
-        background-color: #85a5c9
+        background-color: #dfebed
     }
 
     100% {
-        background-color: #b8bfcc
+        background-color: #edbded
     }
 }
 body {
-  color: #777;
-  font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-  padding: 0 0 0 0;
-   -webkit-animation: bgcolor 20s infinite;
-    animation: bgcolor 10s infinite;
+   -webkit-animation: bgcolor 50s infinite;
+    animation: bgcolor 30s infinite;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
 }
 p {
-  line-height: 20px;
-  margin-bottom: 20px;
 }
 h1 {
-  font-family: "Crete Round", serif;
-  font-weight: bold;
-  color: #444;
-  font-size: 6vw;
-  margin-bottom: 20px;
+
 }
 h2 {
-  font-weight: 300;
-  color: #444;
-  font-size: 2vw;
+ 
 
   text-align: center;
   margin-bottom: 20px;
 }
 h3 {
-  font-size: 3vw;
-  color: #444;
+
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
-  margin-bottom: 20px;
+
 }
 h4 {
-  font-size: 2vw;
-  color: #444;
-  font-weight: bold;
+
   text-transform: uppercase;
-  margin-bottom: 20px;
+
 }
 h5 {
-  font-size: 1vw;
-  color: #444;
+
   font-weight: bold;
   text-transform: uppercase;
 }
 a {
   text-decoration: underline;
-  color: #444;
+
 }
 a:hover {
   color: #02b8dd;
@@ -132,7 +117,7 @@ small {
   padding-top: 10vh;
 }
 .masthead {
-background-color: rgb(255,255,255)
+background-color: #eee
 }
 #features ul li {
   width: 300px;
