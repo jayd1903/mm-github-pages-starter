@@ -20,6 +20,4 @@ permalink: /enroll/
           marginwidth="0"
           class="doc"
           >Loading…</iframe>
-        </div>
-    <!--content ends-->
-</body>
+     </body>
