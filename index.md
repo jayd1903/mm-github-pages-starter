@@ -2,7 +2,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>NextLevel Education</title>
     <link rel="stylesheet" href="https://jayd1903.github.io/mm-github-pages-starter/css/main.css" />
   </head>
   <body>
@@ -10,6 +9,8 @@
     <!--main-->
     <div id="hero-image">
       <div class="wrapper">
+          <img src="../assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg">
+          </img>
         <h2>
           Five-Week Courses. <br />
           Lifelong Skills.
