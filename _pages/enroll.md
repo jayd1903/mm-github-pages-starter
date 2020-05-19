@@ -8,6 +8,7 @@ permalink: /enroll/
     <link rel="stylesheet" href="https://jayd1903.github.io/mm-github-pages-starter/css/main.css" />
   </head>
     <!--navigation ends-->
+    <body>
     <!--main-->
     <div class="form">
       <iframe
@@ -19,5 +20,6 @@ permalink: /enroll/
           marginwidth="0"
           class="doc"
           >Loading…</iframe>
+        </div>
     <!--content ends-->
 
