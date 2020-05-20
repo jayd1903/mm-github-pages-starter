@@ -18,6 +18,27 @@ permalink: /about/
     />
   </head>
   <body>
+    <div class="container">
+      <nav>
+        <input type="checkbox" id="nav" class="hidden" />
+        <label for="nav" class="nav-btn">
+          <i></i>
+          <i></i>
+          <i></i>
+        </label>
+        <div class="logo">
+          <a href="https://nextlevelredmond.com">NextLevel Education</a>
+        </div>
+        <div class="nav-wrapper">
+          <ul>
+            <li><a href="https://nextlevelredmond.com/about/">About</a></li>
+            <li><a href="https://nextlevelredmond.com/courses/">Courses</a></li>
+            <li><a href="https://nextlevelredmond.com/enroll/">Enroll</a></li>
+            <li><a href="https://nextlevelredmond.com/donate/">Donate</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
     <!--navigation ends-->
     <!--main-->
     <div class="spacer" />
