@@ -13,7 +13,7 @@ permalink: /about/
     <div class = "lol">
     <div class="spaceblock"></div>
        <h2>
-       Our Team
+       The Team
         </h2>
         <div class="spaceblock"></div>
      </div>
