@@ -98,11 +98,20 @@ small {
 }
 .bioblue{
   display: inline-block;
-  background-color: lightblue;
+  background-color: #daf2f7;
+  border-style: solid;
+  border-width: 8px;
+  border-color: gray;
+  border-radius: 50px;
+  
 }
 .biogreen{
   display: inline-block;
-  background-color: #c3fad2;
+  border-style: solid;
+  border-width: 8px;
+  border-color: gray;
+  border-radius: 50px;
+  background-color: #c3fff2;
 }
 
 .guypicture{
@@ -125,6 +134,10 @@ small {
 }
 .lol {
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/books.jpg");
+  background-size: cover;
+}
+.cat {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/seattle.jpg");
   background-size: cover;
 }
 .sombrero {
