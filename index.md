@@ -17,7 +17,7 @@
         <div class="spaceblock"></div>
         <div class="spaceblock"></div>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
-        <div class="spacebrick"></div>
+        <div class="spaceblock"></div>
         </div>
     <div class = "beets">
     <div class ="spacebrick"></div>
