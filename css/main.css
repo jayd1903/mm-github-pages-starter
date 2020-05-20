@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: #eee;
   color: #777;
   font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   padding: 0 0 0 0;
@@ -17,8 +17,8 @@ h1 {
 }
 h2 {
   font-weight: 300;
-  color: #444;
-  font-size: 5vw;
+  color: #e2e2e3;
+  font-size: 7vw;
   text-transform: uppercase;
   text-align: center;
   justify-content: center;
@@ -84,9 +84,10 @@ nav {
   margin-top: 8px;
 }
 .lol {
-  background-image: url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg");
   background-size: cover;
 }
+
 .logo a {
   color: #000;
 
@@ -369,3 +370,4 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
