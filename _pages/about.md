@@ -71,7 +71,7 @@ permalink: /about/
                 <h3>Jay Dharmadikari</h3>
                 <p class="w3-opacity">Co-Founder</p>
                 <p>
-                  Dharmadhikari eget enim eu lectus faucibus vestibulum. Suspendisse
+                  Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse
                   sodales pellentesque elementum.
                 </p>
                 <p>
