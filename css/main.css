@@ -21,6 +21,7 @@ h2 {
   font-size: 5vw;
   text-transform: uppercase;
   text-align: center;
+  justify-content: center;
   margin-bottom: 20px;
 }
 h3 {
@@ -82,7 +83,10 @@ nav {
   margin-left: 16px;
   margin-top: 8px;
 }
-
+.lol {
+  background-image: url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg");
+  background-size: cover;
+}
 .logo a {
   color: #000;
 
@@ -263,14 +267,20 @@ nav ul li a {
   overflow: hidden;
 }
 #hero-image h2 {
-  position: relative;
-  top: -500px;
   margin: 180px 0 40px 0;
+  position: relative;
+  top: -400px;
+}
+#hero-image button-1 {
+  position: relative;
+  top:-600px;
+  background-color: #f00;
+  
 }
 .button-1 {
   display: block;
   text-align: center;
-  background: #fff;
+  background: #444;
   border-radius: 15px;
   color: #fff;
   width: 180px;
