@@ -68,13 +68,13 @@ small {
 }
 
 .teamback {
-  background-image: url("./teamback.svg");
+  background-image: url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/teamback.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .photo {
   padding-top: 20vh;
-  background-image: url("./seattle.jpg");
+  background-image: url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/seattle.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 30vh;
