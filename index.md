@@ -7,16 +7,14 @@
   <body>
     <!--navigation ends-->
     <!--main-->
-    <div id="hero-image">
-      <div class="wrapper">
-          <img src="https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg" />
-        <h2>
-          Five-Week Courses, <br />
-          Lifelong Skills!
+    <div class = "lol">
+       <h2>
+          Five-Week Courses,.<br />
+          Lifelong Skills.
         </h2>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
-      </div>
-    </div>
+        </div>
+    
     <!--features-->
     <div id="features">
       <div class="wrapper">
@@ -40,3 +38,4 @@
     </div>
     <!--content ends-->
   </body>
+
