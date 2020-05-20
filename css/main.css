@@ -67,7 +67,25 @@ small {
   clear: both;
 }
 
-
+.teamback {
+  background-image: url("./teamback.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo {
+  padding-top: 20vh;
+  background-image: url("./seattle.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 30vh;
+}
+.backgroundtop {
+  padding-bottom: 10vh;
+}
+.aboutus {
+  color: aliceblue;
+  font-size: xx-large;
+}
 .masthead{
   background-color: #eee;
 }
