@@ -263,7 +263,8 @@ nav ul li a {
   overflow: hidden;
 }
 #hero-image h2 {
-  position: absolute;
+  position: relative;
+  top: -500px;
   margin: 180px 0 40px 0;
 }
 .button-1 {
