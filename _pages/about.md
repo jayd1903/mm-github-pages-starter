@@ -22,7 +22,7 @@ permalink: /about/
      <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /><p>Jay</p>
      </div>
      <div class="guywords">
-     <p>A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate team. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities - you can contact him here.</p>
+     <p>A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate team. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities -  contact him here.</p>
      </div>
      </div>
      <div class="biogreen">
