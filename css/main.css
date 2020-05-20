@@ -92,12 +92,12 @@ small {
   padding-top: 10vw;
   margin-right: 20px;
   width: 100px;
-  height: 200px;
+  height: 250px;
   float: left;
 }
 .guypicture img{
   width:100%;
-  height:50%;
+  height:40%;
   border-radius: 50%;
 }
 .guypicture p{
