@@ -37,7 +37,7 @@ permalink: /about/
         </div>
         <div class="w3-quarter">
           <i class="fa fa-exclamation-triangle w3-margin-bottom w3-jumbo"></i>
-          <p class="w3-large">Covid</p>
+          <p class="w3-large">COVID</p>
           <p>
             Due to the pandemic we are duing our best to provide free education over the internet. Students can learn important skills without leaving home.
           </p>
