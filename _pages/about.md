@@ -5,8 +5,7 @@ permalink: /about/
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>NextLevel Education</title>
-    <link rel="stylesheet" href="https://jayd1903.github.io/mm-github-pages-starter/css/about.css" />
+    <link rel="stylesheet" href="https://jayd1903.github.io/mm-github-pages-starter/css/main.css" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
     <link
       rel="stylesheet"
@@ -18,30 +17,8 @@ permalink: /about/
     />
   </head>
   <body>
-    <div class="container">
-      <nav>
-        <input type="checkbox" id="nav" class="hidden" />
-        <label for="nav" class="nav-btn">
-          <i></i>
-          <i></i>
-          <i></i>
-        </label>
-        <div class="logo">
-          <a href="https://nextlevelredmond.com">NextLevel Education</a>
-        </div>
-        <div class="nav-wrapper">
-          <ul>
-            <li><a href="https://nextlevelredmond.com/about/">About</a></li>
-            <li><a href="https://nextlevelredmond.com/courses/">Courses</a></li>
-            <li><a href="https://nextlevelredmond.com/enroll/">Enroll</a></li>
-            <li><a href="https://nextlevelredmond.com/donate/">Donate</a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
     <!--navigation ends-->
     <!--main-->
-    <div class="spacer" />
     <div class="photo">
       <h3 class="aboutus">ABOUT US</h3>
       <p class="w3-center w3-large"><a href = "mailto:nextlevelredmond@gmail.com">Contact</a></p>
@@ -58,9 +35,9 @@ permalink: /about/
         </div>
         <div class="w3-quarter">
           <i class="fa fa-exclamation-triangle w3-margin-bottom w3-jumbo"></i>
-          <p class="w3-large">Covid</p>
+          <p class="w3-large">COVID-19</p>
           <p>
-            Due to the pandemic we are duing our best to provide free education over the internet. Students can learn important skills without leaving home.
+            Due to the pandemic, we are duing our best to provide free education over the internet. Students can learn important skills without leaving home.
           </p>
         </div>
         <div class="w3-quarter">
@@ -74,11 +51,9 @@ permalink: /about/
           <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
           <p class="w3-large">Foundation</p>
           <p>
-            In return for our services we humbly request you to donate. We try to distribute our funds to our local community.
+            In return for our services, we humbly request you to donate. We try to distribute our funds to our local community.
           </p>
         </div>
-      </div>
-    </div>
     <!--Team-->
 <div class="teamback" >
     <div class="w3-container" style="padding: 128px 16px;" id="team">
@@ -124,4 +99,3 @@ permalink: /about/
         </div>
       </div>
     </div>
-  </body>
