@@ -27,11 +27,13 @@ h2 {
 }
 h3 {
   font-size: 3vw;
-  color: #444;
-  font-weight: bold;
-  text-transform: uppercase;
+  color: #e2e2e3;
   text-align: center;
+  font-weight: 300;
   margin-bottom: 20px;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  
 }
 h4 {
   font-size: 2vw;
@@ -85,14 +87,32 @@ nav {
   margin-top: 8px;
 }
 .lol {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/kimberly-farmer-lUaaKCUANVI-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/books.jpg");
+  background-size: cover;
+}
+.sombrero {
+  padding-top: 1vh;
+  padding-bottom: 20vh;
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/micnew.jpg");
+  background-size: cover;
+}
+.textile {
+  padding-top: 1vh;
+  padding-bottom: 20vh;
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://jayd1903.github.io/mm-github-pages-starter/assets/images/cookingnew.jpg");
   background-size: cover;
 }
 .beets {
-  background-color: #02313b;
+  background-color: #118199;
 }
 .spacebrick{
   padding-top: 1vh;
+}
+.spaceblock {
+    padding-top: 10vh;
+  }
+.triplespaceblock{
+  padding-top: 300vh:
 }
 .logo a {
   color: #000;
@@ -287,7 +307,7 @@ nav ul li a {
 .button-1 {
   display: block;
   text-align: center;
-  background: #118199;
+  background: #02313b;
   border-radius: 15px;
   color: #fff;
   width: 180px;
@@ -295,9 +315,6 @@ nav ul li a {
   font-size: 20px;
   line-height: 50px;
   margin: 0 auto;
-}
-button-1 a {
-  color: #e2e2e3
 }
 
 .button-1:hover {
@@ -357,27 +374,10 @@ button-1 a {
     padding-top: 4vh;
     height: 40vh;
   }
-  .spaceblock {
-    padding-top: 10vh;
-  }
+  
   h4 {
     font-size: 4vw;
   }
 }
 
-/* footer */
-footer {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  background-color: #f8fafa;
-  width: 100%;
-
-  justify-content: space-around;
-}
-.footer-info {
-  padding-top: 10px;
-  justify-content: center;
-  align-items: center;
-}
 
