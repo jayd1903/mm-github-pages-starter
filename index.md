@@ -15,7 +15,6 @@
         </h2>
         <div class="spaceblock"></div>
         <div class="spaceblock"></div>
-        <div class="spaceblock"></div>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
         <div class="spaceblock"></div>
         </div>
