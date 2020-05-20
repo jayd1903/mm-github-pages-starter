@@ -10,24 +10,26 @@ permalink: /about/
   <body>
     <!--navigation ends-->
     <!--main-->
-    <div class = "lol">
+    <div class = "cat">
     <div class="spaceblock"></div>
        <h2>
-       The Team
+       Our Team
         </h2>
         <div class="spaceblock"></div>
      </div>
+     <div class="spacebrick"></div>
      <div class="bioblue">
      <div class="guypicture">
      <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /><p>Jay</p>
      </div>
      <div class="guywords">
-     <p>A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate team. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities -  contact him here.</p>
+     <p>A two-time State Competitor in Congressional Debate and the Vice President of the Redmond High School Speech and Debate team. He is passionate about introducing new forms of online education to Redmond and giving back to his educational community. His other passions include graphic design and programming. He’s always looking for new opportunities - you can contact him here.</p>
      </div>
      </div>
+     <div class="spacebrick"></div>
      <div class="biogreen">
      <div class="guypicture">
-     <img src="https://jayd1903.github.io/mm-github-pages-starter/assets/images/dhruvcapturecopy.jpg" /><p>Dhruv</p>
+     <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /><p>Dhruv</p>
      </div>
      <div class="guywords">
      <p>Winner of the 2019 Redmond High School cullinary club compition. Dedicated to providing better education to his community. A passionate chef and home cook he is allways looking for creative ways for improvement. He is also a talented front-end developer and programmer. Don't hesitate to reach out to him here.</p>
