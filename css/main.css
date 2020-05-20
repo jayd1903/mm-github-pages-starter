@@ -175,17 +175,3 @@ small {
   background-color: #02b8dd;
   color: #fff;
 }
-.courses{
-  color: #000;
-}
-@media screen and (min-width: 864px){
-  h1{
-    font-size: 5vw;
-  }
-  h2{
-    font-size: 2vw;
-  }
-  h3{
-    font-size: 2vw;
-  }
-}
