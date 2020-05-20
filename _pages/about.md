@@ -51,11 +51,9 @@ permalink: /about/
           <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
           <p class="w3-large">Foundation</p>
           <p>
-            In return for our services we humbly request you to donate. We try to distribute our funds to our local community.
+            In return for our services, we humbly request you to donate. We try to distribute our funds to our local community.
           </p>
         </div>
-      </div>
-  
     <!--Team-->
 <div class="teamback" >
     <div class="w3-container" style="padding: 128px 16px;" id="team">
