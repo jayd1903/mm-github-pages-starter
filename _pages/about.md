@@ -27,7 +27,7 @@ permalink: /about/
      </div>
      <div class="biogreen">
      <div class="guypicture">
-     <img src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" /><p>Dhruv</p>
+     <img src="https://jayd1903.github.io/mm-github-pages-starter/assets/images/dhruvcapturecopy.jpg" /><p>Dhruv</p>
      </div>
      <div class="guywords">
      <p>Winner of the 2019 Redmond High School cullinary club compition. Dedicated to providing better education to his community. A passionate chef and home cook he is allways looking for creative ways for improvement. He is also a talented front-end developer and programmer. Don't hesitate to reach out to him here.</p>
