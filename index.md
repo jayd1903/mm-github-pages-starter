@@ -8,13 +8,16 @@
     <!--navigation ends-->
     <!--main-->
     <div class = "lol">
+    <div id="spaceblock"></div>
        <h2>
-          Five-Week Courses,.<br />
-          Lifelong Skills.
+          Five-Week Courses, <br />
+          Lifelong Skills!
         </h2>
+        <div id="spaceblock"></div>
+        <div id="spaceblock"></div>
+        <div id="spaceblock"></div>
         <a href="https://nextlevelredmond.com/enroll/" class="button-1">Enroll Now</a>
         </div>
-    
     <!--features-->
     <div id="features">
       <div class="wrapper">
