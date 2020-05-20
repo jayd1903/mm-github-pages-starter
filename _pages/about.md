@@ -85,7 +85,7 @@ permalink: /about/
           </div>
           <div class="w3-col l3 m6 w3-margin-bottom">
             <div class="w3-card">
-              <img src="/DhruvCapture.jpg" alt="Dhruv" style="width: 100%;" />
+              <img src="https://jayd1903.github.io/mm-github-pages-starter/assets/images/DhruvCapture.jpg" alt="Dhruv" style="width: 100%;" />
               <div class="w3-container">
                 <h3>Dhruv Naik</h3>
                 <p class="w3-opacity">Co-Founder</p>
