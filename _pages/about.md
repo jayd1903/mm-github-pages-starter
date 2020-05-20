@@ -25,7 +25,7 @@ permalink: /about/
       <h3 class="aboutus">ABOUT US</h3>
       <p class="w3-center w3-large"><a href = "mailto:nextlevelredmond@gmail.com">Contact</a></p>
     </div>
-    
+    </div>
     <div class="backgroundtop">
       <div class="w3-row-padding w3-center" style="margin-top: 64px;">
         <div class="w3-quarter">
@@ -37,7 +37,7 @@ permalink: /about/
         </div>
         <div class="w3-quarter">
           <i class="fa fa-exclamation-triangle w3-margin-bottom w3-jumbo"></i>
-          <p class="w3-large">Covid</p>
+          <p class="w3-large">COVID</p>
           <p>
             Due to the pandemic we are duing our best to provide free education over the internet. Students can learn important skills without leaving home.
           </p>
